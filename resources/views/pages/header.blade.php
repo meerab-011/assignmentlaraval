@@ -1,11 +1,5 @@
 
-<!-- <header>
-<h1> header </header>
-<ul>
-    <li><a href="">home</a></li>
-    <li><a href="">About</a></li>
-</ul>
-</header> -->
+
 <style>
     .three-line-header {
   text-align: center;
